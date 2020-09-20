@@ -1,0 +1,2 @@
+JAVA_VERSION="11.0.2"
+MODULES="java.base adee.api adee.api.classwork adee.api.homework easytext.analysis easytext.cli"
